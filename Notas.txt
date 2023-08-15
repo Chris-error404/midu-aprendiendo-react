@@ -1,0 +1,10 @@
+Para poner en producción el proyecto, se debe ejecutar el siguiente comando:
+
+```npm run build```
+
+Y luego subir la carpeta 'dist' a un servidor web.
+Por ejemplo: [Netlify Drop](https://app.netlify.com/drop/)
+             [Vercel](https://vercel.com/)
+             [Railway](https://railway.app/)
+             [Render](https://render.com/)
+             [Fly](https://fly.io/)
